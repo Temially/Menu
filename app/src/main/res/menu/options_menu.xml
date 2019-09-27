@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/Add_movie"
+        android:title="Add movie" />
+    <item android:id="@+id/Share"
+        android:title="Share movie" />
+    <item android:id="@+id/Delete"
+        android:title="Delete movie" />
+    <item android:id="@+id/Exit"
+        android:title="Exit" />
+    <item android:id="@+id/bookmark_item"
+        android:title="BookMark" />
+</menu>
